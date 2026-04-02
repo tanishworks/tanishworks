@@ -17,9 +17,3 @@ Setup: Arch Linux (BTW)
   Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/>
   Contact: [Email](mailto:tanishj1711@proton.me) **|** Discord: [@sandbox1](https://discord.com/users/795929788250193920) <br/>
 </details>
-<details>
-<summary>Github stats</summary>
-<br/>
-  
-  ![Stats](https://nirzak-streak-stats.vercel.app/?user=rainbowdesert57&theme=shades-of-purple)
-</details>
