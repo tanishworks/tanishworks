@@ -2,11 +2,14 @@
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
 <!-- <br/> -->
-```md
-Student & programmer (15)
-Interests: C++, tui dev, mobile dev, full-stack web
-Learning: Dart, C++, FTXUI for tui interfaces
-Setup: Arch Linux (BTW)
+```
+$ whoami
+
+name      : tanish
+role      : student
+interests : c++ · mobile · full-stack
+learning  : dart · ftxui
+os        : arch linux
 ```
 <br/>
 
