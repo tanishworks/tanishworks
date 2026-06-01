@@ -18,5 +18,5 @@ os        : arch linux
 <!--  <br/> -->
   
 <!--  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/> -->
-  Contact: [Email](mailto:tanishj1711@proton.me) **|** Discord: [@Sandbox1](https://discord.com/users/795929788250193920) <br/>
+  Contact: [Email](mailto:tanishj1711@proton.me) **|** Discord: [@Sandbox](https://discord.com/users/795929788250193920) <br/>
 <!-- </details> -->
