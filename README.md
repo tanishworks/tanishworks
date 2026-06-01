@@ -8,7 +8,7 @@ $ whoami
 name      : tanish
 role      : student
 interests : c++ · mobile · full-stack
-learning  : dart · ftxui
+learning  : ReactNative · DSA (C++)
 os        : arch linux
 ```
 <br/>
