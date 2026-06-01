@@ -17,6 +17,6 @@ os        : arch linux
   <summary>Contacts</summary>
   <br/>
   
-  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/>
-  Contact: [Email](mailto:tanishj1711@proton.me) **|** Discord: [@sandbox1](https://discord.com/users/795929788250193920) <br/>
+<!--  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/> -->
+  Contact: [Email](mailto:tanishj1711@proton.me) **|** Discord: [@sandboxxed1](https://discord.com/users/795929788250193920) <br/>
 </details>
