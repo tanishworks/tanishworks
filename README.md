@@ -14,7 +14,7 @@ os        : arch linux
 <br/>
 
 <!-- <details> -->
-  <summary>Contacts</summary>
+<!--   <summary>Contacts</summary> -->
 <!--  <br/> -->
   
 <!--  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/> -->
