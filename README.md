@@ -13,10 +13,10 @@ os        : arch linux
 ```
 <br/>
 
-<details>
+<!-- <details> -->
   <summary>Contacts</summary>
-  <br/>
+<!--  <br/> -->
   
 <!--  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/> -->
   Contact: [Email](mailto:tanishj1711@proton.me) **|** Discord: [@Sandbox1](https://discord.com/users/795929788250193920) <br/>
-</details>
+<!-- </details> -->
