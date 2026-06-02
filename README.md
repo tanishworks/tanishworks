@@ -1,4 +1,7 @@
-<!-- <img src=".github/assets/pfp2.jpg" style="width: 100%;" /> -->
+<p align="center">
+  <img src=".github/assets/banner.gif" style="width: 100%;" />
+</p>
+<!-- ![Banner](.github/assets/banner.gif) -->
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
 <!-- <br/> -->
