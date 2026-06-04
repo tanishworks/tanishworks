@@ -37,7 +37,7 @@ Terminal    : kitty
 Languages   : C, C++, TypeScript
 Interests   : Full-stack · Mobile · Systems
 ```
-```bash
+<!--```bash
 $ ls ~/projects/
 
 lockin/
@@ -55,7 +55,7 @@ $ cat currently_learning.md
 $ echo $STATUS
 
 Building.
-```
+```-->
 <br/>
 
 <!-- <details> -->
