@@ -5,15 +5,26 @@
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
 <!-- <br/> -->
-<!--```
-$ whoami
+<!-- Short -->
 
-name      : tanish
-role      : student
-interests : c++ · mobile · full-stack
-learning  : ReactNative · DSA (C++)
-os        : arch linux
-```-->
+```bash
+$ neofetch --config info
+
+Name      : Tanish
+Age:      : 15
+Role      : Student
+
+OS        : Arch Linux
+Kernel    : linux-zen
+WM        : Hyprland
+Shell     : fish
+Editor    : Neovim
+
+Languages   : C, C++, TypeScript
+Interests   : Full-stack · Mobile · Systems
+```
+
+<!-- medium
 ```bash
 $ whoami
 
@@ -36,7 +47,8 @@ Terminal    : kitty
 
 Languages   : C, C++, TypeScript
 Interests   : Full-stack · Mobile · Systems
-```
+```-->
+<!--Full-->
 <!--```bash
 $ ls ~/projects/
 
