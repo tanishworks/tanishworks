@@ -20,8 +20,8 @@ WM        : Hyprland
 Shell     : fish
 Editor    : Neovim
 
-Languages   : C, C++, TypeScript
-Interests   : Full-stack · Mobile · Systems
+Languages : C, C++, TypeScript
+Interests : Full-stack · Mobile · Systems
 ```
 
 <!-- medium
