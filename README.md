@@ -68,12 +68,18 @@ $ echo $STATUS
 
 Building.
 ```-->
-<br/>
 
 <!-- <details> -->
 <!--   <summary>Contacts</summary> -->
 <!--  <br/> -->
   
 <!--  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/> -->
-  Contact: Email: [tanishj1711@proton.me](mailto:tanishj1711@proton.me)  **|**  Discord: [@Sandbox](https://discord.com/users/795929788250193920) <br/>
-<!-- </details> -->
+<!--  Contact: Email: [tanishj1711@proton.me](mailto:tanishj1711@proton.me)  **|**  Discord: [@Sandbox](https://discord.com/users/795929788250193920) <br/> -->
+<p align="left">
+  <a href="mailto:tanishj1711@proton.me">
+    <img src="https://img.shields.io/badge/$%20mail%20tanishj1711@proton.me-black?style=for-the-badge"/>
+  </a>
+  <a href="https://discord.com/users/795929788250193920">
+    <img src="https://img.shields.io/badge/$%20discord%20@Sandbox-black?style=for-the-badge"/>
+  </a>
+</p><!-- </details> -->
