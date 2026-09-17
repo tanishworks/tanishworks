@@ -5,6 +5,15 @@
 <div align="center">
 
 <img src="./ascii.svg" width="460" alt="Mahoraga"/>
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+  <a href="mailto:tanishj1711@proton.me">
+    <img src="https://img.shields.io/badge/$%20mail%20tanishj1711@proton.me-black?style=for-the-badge"/>
+  </a>
+  <a href="https://discord.com/users/795929788250193920">
+    <img src="https://img.shields.io/badge/$%20discord%20@Sandbox-black?style=for-the-badge"/>
+  </a>
+
 
 </div>
 
@@ -13,7 +22,7 @@
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
 <!-- <br/> -->
 
-
+<img src="./hd-about.svg" width="620" alt="about"/>
 
 <!-- Short -->
 
@@ -87,11 +96,16 @@ Interests : Full-stack · Mobile · Systems
 <!--  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/> -->
 <!--  Contact: Email: [tanishj1711@proton.me](mailto:tanishj1711@proton.me)  **|**  Discord: [@Sandbox](https://discord.com/users/795929788250193920) <br/> -->
 
-<p align="left">
-  <a href="mailto:tanishj1711@proton.me">
-    <img src="https://img.shields.io/badge/$%20mail%20tanishj1711@proton.me-black?style=for-the-badge"/>
-  </a>
-  <a href="https://discord.com/users/795929788250193920">
-    <img src="https://img.shields.io/badge/$%20discord%20@Sandbox-black?style=for-the-badge"/>
-  </a>
-</p><!-- </details> -->
+
+<!-- </details> -->
+
+<div align="center">
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
+
