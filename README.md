@@ -1,6 +1,6 @@
-<p align="center">
-  <img src=".github/assets/banner.gif" style="width: 100%;" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src=".github/assets/banner.gif" style="width: 100%;" /> -->
+<!-- </p> -->
 
 <div align="center">
 
