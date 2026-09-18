@@ -26,8 +26,6 @@
 
 <!-- text -->
 
-## About
-
 High-school student from India, driven by **curiosity, ambition, and a refusal to settle for average**.
 
 I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
