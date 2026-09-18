@@ -25,83 +25,83 @@
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 <!-- text -->
-    
-## About
 
-High-school student from India, driven by **curiosity, ambition, and a refusal to settle for average**.
+    ## About
+    
+    High-school student from India, driven by **curiosity, ambition, and a refusal to settle for average**.
+    
+    I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
+    
+    > **“I have no prime, I will evolve until I die.”**
 
-I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
 
-> **“I have no prime, I will evolve until I die.”**
+<!-- Short -->
 
-    
-    <!-- Short -->
-    
-        <!-- ```bash -->
-        <!-- $ neofetch --config info -->
-        <!---->
-        <!-- Name      : Tanish -->
-        <!-- Age:      : 15 -->
-        <!-- Role      : Student -->
-        <!---->
-        <!-- OS        : Arch Linux -->
-        <!-- Kernel    : linux-zen -->
-        <!-- WM        : Hyprland -->
-        <!-- Shell     : fish -->
-        <!-- Editor    : Neovim -->
-        <!---->
-        <!-- Languages : C, C++, TypeScript -->
-        <!-- Interests : Full-stack · Mobile · Systems -->
-        <!-- ``` -->
-    
-    <!-- medium -->
-    
-        <!-- ```bash -->
-        <!-- $ whoami -->
-        <!---->
-        <!-- Name       : Tanish -->
-        <!-- Age        : 15 -->
-        <!-- Occupation : Student -->
-        <!---->
-        <!-- "Everything is an abstraction, -->
-        <!-- waiting to be broken down." -->
-        <!-- ``` -->
-    
-        <!-- ```bash -->
-        <!-- $ neofetch -->
-        <!---->
-        <!-- OS          : Arch Linux -->
-        <!-- Kernel      : linux-zen -->
-        <!-- WM          : Hyprland -->
-        <!-- Shell       : fish -->
-        <!-- Editor      : Neovim -->
-        <!-- Terminal    : kitty -->
-        <!---->
-        <!-- Languages   : C, C++, TypeScript -->
-        <!-- Interests   : Full-stack · Mobile · Systems -->
-        <!-- ``` -->
-    
-    <!--Full-->
-        <!-- ```bash -->
-        <!-- $ ls ~/projects/ -->
-        <!---->
-        <!-- lockin/ -->
-        <!-- hyprcaption/ -->
-        <!-- random-ideas-that-became-real/ -->
-        <!-- ``` -->
-        <!-- ```bash -->
-        <!-- $ cat currently_learning.md -->
-        <!---->
-        <!-- - React Native -->
-        <!-- - DSA (C++) -->
-        <!-- - System Design -->
-        <!-- ``` -->
-    
-        <!-- ```bash -->
-        <!-- $ echo $STATUS -->
-        <!---->
-        <!-- Building. -->
-        <!-- ``` -->
+    <!-- ```bash -->
+    <!-- $ neofetch --config info -->
+    <!---->
+    <!-- Name      : Tanish -->
+    <!-- Age:      : 15 -->
+    <!-- Role      : Student -->
+    <!---->
+    <!-- OS        : Arch Linux -->
+    <!-- Kernel    : linux-zen -->
+    <!-- WM        : Hyprland -->
+    <!-- Shell     : fish -->
+    <!-- Editor    : Neovim -->
+    <!---->
+    <!-- Languages : C, C++, TypeScript -->
+    <!-- Interests : Full-stack · Mobile · Systems -->
+    <!-- ``` -->
+
+<!-- medium -->
+
+    <!-- ```bash -->
+    <!-- $ whoami -->
+    <!---->
+    <!-- Name       : Tanish -->
+    <!-- Age        : 15 -->
+    <!-- Occupation : Student -->
+    <!---->
+    <!-- "Everything is an abstraction, -->
+    <!-- waiting to be broken down." -->
+    <!-- ``` -->
+
+    <!-- ```bash -->
+    <!-- $ neofetch -->
+    <!---->
+    <!-- OS          : Arch Linux -->
+    <!-- Kernel      : linux-zen -->
+    <!-- WM          : Hyprland -->
+    <!-- Shell       : fish -->
+    <!-- Editor      : Neovim -->
+    <!-- Terminal    : kitty -->
+    <!---->
+    <!-- Languages   : C, C++, TypeScript -->
+    <!-- Interests   : Full-stack · Mobile · Systems -->
+    <!-- ``` -->
+
+<!--Full-->
+    <!-- ```bash -->
+    <!-- $ ls ~/projects/ -->
+    <!---->
+    <!-- lockin/ -->
+    <!-- hyprcaption/ -->
+    <!-- random-ideas-that-became-real/ -->
+    <!-- ``` -->
+    <!-- ```bash -->
+    <!-- $ cat currently_learning.md -->
+    <!---->
+    <!-- - React Native -->
+    <!-- - DSA (C++) -->
+    <!-- - System Design -->
+    <!-- ``` -->
+
+    <!-- ```bash -->
+    <!-- $ echo $STATUS -->
+    <!---->
+    <!-- Building. -->
+    <!-- ``` -->
 
 <!-- <details> -->
 <!--   <summary>Contacts</summary> -->
