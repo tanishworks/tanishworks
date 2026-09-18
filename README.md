@@ -22,15 +22,6 @@
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
 <!-- <br/> -->
 
-<img src="./hd-about.svg" width="620" alt="about"/>
-
-<!-- text -->
-
-High-school student from India, driven by **curiosity, ambition, and a refusal to settle for average**.
-
-I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
-
-> **“I have no prime, I will evolve until I die.”**
 
 
 <!-- Short -->
@@ -117,4 +108,13 @@ I love **coding, building things, and figuring out how stuff works**. Mostly **C
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
+
+<img src="./hd-about.svg" width="620" alt="about"/>
+
+
+High-school student from India, driven by **curiosity, ambition, and a refusal to settle for average**.
+
+I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
+
+> **“I have no prime, I will evolve until I die.”**
 
