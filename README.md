@@ -3,8 +3,14 @@
 <!-- </p> -->
 
 <div align="center">
-
 <img src="./ascii.svg" width="460" alt="Mahoraga"/>
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
   <a href="mailto:tanishj1711@proton.me">
@@ -99,15 +105,8 @@
 
 <!-- </details> -->
 
-<div align="center">
 
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
-
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
-
-</div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
