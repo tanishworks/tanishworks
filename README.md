@@ -15,6 +15,8 @@
     <img src="./discord.svg" width="36" height="36" alt="Discord" />
 </a>
 
+<br />
+
 <img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
