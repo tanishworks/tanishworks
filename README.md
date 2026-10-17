@@ -5,11 +5,11 @@
 <div align="center">
 <img src="./ascii.svg" width="460" alt="Mahoraga"/>
 
+<br />
+
 <a href="mailto:tanishj1711@proton.me">
     <img src="./email.svg" width="36" height="36" alt="Email" />
 </a>
-
-<br />
 
 <a href="https://discord.com/users/795929788250193920">
     <img src="./discord.svg" width="36" height="36" alt="Discord" />
