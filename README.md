@@ -13,107 +13,106 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-  <a href="mailto:tanishj1711@proton.me">
-    <img src="./email.svg" width="24" height="24" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/795929788250193920">
-    <img src="./discord.svg" width="24" height="24" alt="Discord" />
-  </a>
+<br/>
 
+<a href="mailto:tanishj1711@proton.me">
+    <img src="./email.svg" width="24" height="24" alt="Email" />
+</a>
+<a href="https://discord.com/users/795929788250193920">
+    <img src="./discord.svg" width="24" height="24" alt="Discord" />
+</a>
 
 </div>
 
-<!-- ![Banner](.github/assets/banner.gif) -->
+<!-- Banner -->
 
-<!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
-<!-- <br/> -->
+    <!-- ![Banner](.github/assets/banner.gif) -->
 
-
+    <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
+    <!-- <br/> -->
 
 <!-- Short -->
 
-<!-- ```bash -->
-<!-- $ neofetch --config info -->
-<!---->
-<!-- Name      : Tanish -->
-<!-- Age:      : 15 -->
-<!-- Role      : Student -->
-<!---->
-<!-- OS        : Arch Linux -->
-<!-- Kernel    : linux-zen -->
-<!-- WM        : Hyprland -->
-<!-- Shell     : fish -->
-<!-- Editor    : Neovim -->
-<!---->
-<!-- Languages : C, C++, TypeScript -->
-<!-- Interests : Full-stack · Mobile · Systems -->
-<!-- ``` -->
+    <!-- ```bash -->
+    <!-- $ neofetch --config info -->
+    <!---->
+    <!-- Name      : Tanish -->
+    <!-- Age:      : 15 -->
+    <!-- Role      : Student -->
+    <!---->
+    <!-- OS        : Arch Linux -->
+    <!-- Kernel    : linux-zen -->
+    <!-- WM        : Hyprland -->
+    <!-- Shell     : fish -->
+    <!-- Editor    : Neovim -->
+    <!---->
+    <!-- Languages : C, C++, TypeScript -->
+    <!-- Interests : Full-stack · Mobile · Systems -->
+    <!-- ``` -->
 
 <!-- medium -->
 
-<!-- ```bash -->
-<!-- $ whoami -->
-<!---->
-<!-- Name       : Tanish -->
-<!-- Age        : 15 -->
-<!-- Occupation : Student -->
-<!---->
-<!-- "Everything is an abstraction, -->
-<!-- waiting to be broken down." -->
-<!-- ``` -->
-<!-- ```bash -->
-<!-- $ neofetch -->
-<!---->
-<!-- OS          : Arch Linux -->
-<!-- Kernel      : linux-zen -->
-<!-- WM          : Hyprland -->
-<!-- Shell       : fish -->
-<!-- Editor      : Neovim -->
-<!-- Terminal    : kitty -->
-<!---->
-<!-- Languages   : C, C++, TypeScript -->
-<!-- Interests   : Full-stack · Mobile · Systems -->
-<!-- ``` -->
+    <!-- ```bash -->
+    <!-- $ whoami -->
+
+    <!-- Name       : Tanish -->
+    <!-- Age        : 15 -->
+    <!-- Occupation : Student -->
+
+    <!-- "Everything is an abstraction, -->
+    <!-- waiting to be broken down." -->
+    <!-- ``` -->
+    <!-- ```bash -->
+    <!-- $ neofetch -->
+
+    <!-- OS          : Arch Linux -->
+    <!-- Kernel      : linux-zen -->
+    <!-- WM          : Hyprland -->
+    <!-- Shell       : fish -->
+    <!-- Editor      : Neovim -->
+    <!-- Terminal    : kitty -->
+
+    <!-- Languages   : C, C++, TypeScript -->
+    <!-- Interests   : Full-stack · Mobile · Systems -->
+    <!-- ``` -->
+
 <!--Full-->
-<!-- ```bash -->
-<!-- $ ls ~/projects/ -->
-<!---->
-<!-- lockin/ -->
-<!-- hyprcaption/ -->
-<!-- random-ideas-that-became-real/ -->
-<!-- ``` -->
-<!-- ```bash -->
-<!-- $ cat currently_learning.md -->
-<!---->
-<!-- - React Native -->
-<!-- - DSA (C++) -->
-<!-- - System Design -->
-<!-- ``` -->
-<!-- ```bash -->
-<!-- $ echo $STATUS -->
-<!---->
-<!-- Building. -->
-<!-- ``` -->
+
+    <!-- ```bash -->
+    <!-- $ ls ~/projects/ -->
+
+    <!-- lockin/ -->
+    <!-- hyprcaption/ -->
+    <!-- random-ideas-that-became-real/ -->
+    <!-- ``` -->
+
+    <!-- ```bash -->
+    <!-- $ cat currently_learning.md -->
+
+    <!-- - React Native -->
+    <!-- - DSA (C++) -->
+    <!-- - System Design -->
+    <!-- ``` -->
+
+    <!-- ```bash -->
+    <!-- $ echo $STATUS -->
+
+    <!-- Building. -->
+    <!-- ``` -->
 
 <!-- <details> -->
 <!--   <summary>Contacts</summary> -->
 <!--  <br/> -->
-  
+
 <!--  Portfolio: [rainbowdesert57.github.io](https://rainbowdesert57.github.io) *(WIP)* <br/> -->
 <!--  Contact: Email: [tanishj1711@proton.me](mailto:tanishj1711@proton.me)  **|**  Discord: [@Sandbox](https://discord.com/users/795929788250193920) <br/> -->
 
-
 <!-- </details> -->
 
-
-
-
 <img src="./hd-about.svg" width="620" alt="about"/>
-
 
 I'm a high school student from India, driven by a refusal to settle for average.
 
 I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
 
 > **“I have no prime, I will evolve until I die.”**
-
