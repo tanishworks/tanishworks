@@ -5,6 +5,13 @@
 <div align="center">
 <img src="./ascii.svg" width="460" alt="Mahoraga"/>
 
+<a href="mailto:tanishj1711@proton.me">
+    <img src="./email.svg" width="36" height="36" alt="Email" />
+</a>
+<a href="https://discord.com/users/795929788250193920">
+    <img src="./discord.svg" width="24" height="36" alt="Discord" />
+</a>
+
 <img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
@@ -15,90 +22,84 @@
 
 <br/>
 
-<a href="mailto:tanishj1711@proton.me">
-    <img src="./email.svg" width="24" height="24" alt="Email" />
-</a>
-<a href="https://discord.com/users/795929788250193920">
-    <img src="./discord.svg" width="24" height="24" alt="Discord" />
-</a>
 
 </div>
 
 <!-- Banner -->
 
-    <!-- ![Banner](.github/assets/banner.gif) -->
+<!-- ![Banner](.github/assets/banner.gif) -->
 
-    <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
-    <!-- <br/> -->
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi!;Hello!;Greetings!) -->
+<!-- <br/> -->
 
 <!-- Short -->
 
-    <!-- ```bash -->
-    <!-- $ neofetch --config info -->
-    <!---->
-    <!-- Name      : Tanish -->
-    <!-- Age:      : 15 -->
-    <!-- Role      : Student -->
-    <!---->
-    <!-- OS        : Arch Linux -->
-    <!-- Kernel    : linux-zen -->
-    <!-- WM        : Hyprland -->
-    <!-- Shell     : fish -->
-    <!-- Editor    : Neovim -->
-    <!---->
-    <!-- Languages : C, C++, TypeScript -->
-    <!-- Interests : Full-stack · Mobile · Systems -->
-    <!-- ``` -->
+<!-- ```bash -->
+<!-- $ neofetch --config info -->
+<!---->
+<!-- Name      : Tanish -->
+<!-- Age:      : 15 -->
+<!-- Role      : Student -->
+<!---->
+<!-- OS        : Arch Linux -->
+<!-- Kernel    : linux-zen -->
+<!-- WM        : Hyprland -->
+<!-- Shell     : fish -->
+<!-- Editor    : Neovim -->
+<!---->
+<!-- Languages : C, C++, TypeScript -->
+<!-- Interests : Full-stack · Mobile · Systems -->
+<!-- ``` -->
 
 <!-- medium -->
 
-    <!-- ```bash -->
-    <!-- $ whoami -->
+<!-- ```bash -->
+<!-- $ whoami -->
 
-    <!-- Name       : Tanish -->
-    <!-- Age        : 15 -->
-    <!-- Occupation : Student -->
+<!-- Name       : Tanish -->
+<!-- Age        : 15 -->
+<!-- Occupation : Student -->
 
-    <!-- "Everything is an abstraction, -->
-    <!-- waiting to be broken down." -->
-    <!-- ``` -->
-    <!-- ```bash -->
-    <!-- $ neofetch -->
+<!-- "Everything is an abstraction, -->
+<!-- waiting to be broken down." -->
+<!-- ``` -->
+<!-- ```bash -->
+<!-- $ neofetch -->
 
-    <!-- OS          : Arch Linux -->
-    <!-- Kernel      : linux-zen -->
-    <!-- WM          : Hyprland -->
-    <!-- Shell       : fish -->
-    <!-- Editor      : Neovim -->
-    <!-- Terminal    : kitty -->
+<!-- OS          : Arch Linux -->
+<!-- Kernel      : linux-zen -->
+<!-- WM          : Hyprland -->
+<!-- Shell       : fish -->
+<!-- Editor      : Neovim -->
+<!-- Terminal    : kitty -->
 
-    <!-- Languages   : C, C++, TypeScript -->
-    <!-- Interests   : Full-stack · Mobile · Systems -->
-    <!-- ``` -->
+<!-- Languages   : C, C++, TypeScript -->
+<!-- Interests   : Full-stack · Mobile · Systems -->
+<!-- ``` -->
 
 <!--Full-->
 
-    <!-- ```bash -->
-    <!-- $ ls ~/projects/ -->
+<!-- ```bash -->
+<!-- $ ls ~/projects/ -->
 
-    <!-- lockin/ -->
-    <!-- hyprcaption/ -->
-    <!-- random-ideas-that-became-real/ -->
-    <!-- ``` -->
+<!-- lockin/ -->
+<!-- hyprcaption/ -->
+<!-- random-ideas-that-became-real/ -->
+<!-- ``` -->
 
-    <!-- ```bash -->
-    <!-- $ cat currently_learning.md -->
+<!-- ```bash -->
+<!-- $ cat currently_learning.md -->
 
-    <!-- - React Native -->
-    <!-- - DSA (C++) -->
-    <!-- - System Design -->
-    <!-- ``` -->
+<!-- - React Native -->
+<!-- - DSA (C++) -->
+<!-- - System Design -->
+<!-- ``` -->
 
-    <!-- ```bash -->
-    <!-- $ echo $STATUS -->
+<!-- ```bash -->
+<!-- $ echo $STATUS -->
 
-    <!-- Building. -->
-    <!-- ``` -->
+<!-- Building. -->
+<!-- ``` -->
 
 <!-- <details> -->
 <!--   <summary>Contacts</summary> -->
