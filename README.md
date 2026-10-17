@@ -14,22 +14,10 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
   <a href="mailto:tanishj1711@proton.me">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Email">
-      <title>Email</title>
-      <rect x="3" y="5" width="18" height="14" rx="2"/>
-      <path d="m3 7 9 6 9-6"/>
-    </svg>
+    <img src="./email.svg" width="24" height="24" alt="Email" />
   </a>
   <a href="https://discord.com/users/795929788250193920">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Discord">
-      <title>Discord</title>
-      <path d="M8.2 6.5a14 14 0 0 1 7.6 0"/>
-      <path d="M6.5 7.2a15 15 0 0 0-2 9.3 14 14 0 0 0 4.3 2.2l1-1.6"/>
-      <path d="M17.5 7.2a15 15 0 0 1 2 9.3 14 14 0 0 1-4.3 2.2l-1-1.6"/>
-      <path d="M9 16c2 1 4 1 6 0"/>
-      <circle cx="9" cy="12" r="1" fill="currentColor" stroke="none"/>
-      <circle cx="15" cy="12" r="1" fill="currentColor" stroke="none"/>
-    </svg>
+    <img src="./discord.svg" width="24" height="24" alt="Discord" />
   </a>
 
 
