@@ -5,17 +5,6 @@
 <div align="center">
 <img src="./ascii.svg" width="460" alt="Mahoraga"/>
 
-<br />
-
-<a href="mailto:tanishj1711@proton.me">
-    <img src="./email.svg" width="36" height="36" alt="Email" />
-</a>
-
-<a href="https://discord.com/users/795929788250193920">
-    <img src="./discord.svg" width="36" height="36" alt="Discord" />
-</a>
-
-<br />
 
 <img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
@@ -119,3 +108,13 @@ I'm a high school student from India, driven by a refusal to settle for average.
 I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
 
 > **“I have no prime, I will evolve until I die.”**
+
+<br />
+
+<a href="mailto:tanishj1711@proton.me">
+    <img src="./email.svg" width="36" height="36" alt="Email" />
+</a>
+
+<a href="https://discord.com/users/795929788250193920">
+    <img src="./discord.svg" width="36" height="36" alt="Discord" />
+</a>
