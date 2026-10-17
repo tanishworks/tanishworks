@@ -111,6 +111,7 @@ I love **coding, building things, and figuring out how stuff works**. Mostly **C
 
 <br />
 
+<div align="center">
 <a href="mailto:tanishj1711@proton.me">
     <img src="./email.svg" width="36" height="36" alt="Email" />
 </a>
@@ -118,3 +119,4 @@ I love **coding, building things, and figuring out how stuff works**. Mostly **C
 <a href="https://discord.com/users/795929788250193920">
     <img src="./discord.svg" width="36" height="36" alt="Discord" />
 </a>
+</div>
