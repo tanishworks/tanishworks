@@ -103,11 +103,9 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-I'm a high school student from India, driven by a refusal to settle for average.
-
-I love **coding, building things, and figuring out how stuff works**. Mostly **C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
-
-> **“I have no prime, I will evolve until I die.”**
+> **I'm a high school student from India, driven by a refusal to settle for average.**
+>
+> I love coding, building things, and figuring out how stuff works. Mostly C++ / TypeScript**, with interests in systems, Android, and turning weird ideas into real projects.
 
 <br />
 
